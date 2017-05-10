@@ -1,0 +1,49 @@
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.util.StringTokenizer;
+import java.util.Vector;
+
+public class TestVecteur {
+	Vector<Client> vClients;
+	
+	public TestVecteur(String strFichierTexte) {
+		BufferedReader brFichier;
+		try {
+			brFichier = new BufferedReader(new FileReader(strFichierTexte));
+		} catch (FileNotFoundException e) {
+
+			e.printStackTrace();
+		}
+		String strLigne;
+		StringTokenizer st;
+		Client client;
+		try {
+
+			while ((strLigne = brFichier.readLine()) != null) {
+				// System.out.println(strLigne);
+				st = new StringTokenizer(strLigne, ",");
+				while (st.hasMoreTokens()) {
+					// remplir le tableau
+					client = new client(st.nextToken(), st.nextToken(), Short.parseShort(st.nextToken().trim()));
+					tabStation[intNbStations] = client;
+					intNbStations++;
+				}
+			}
+		} catch (Exception e) {
+			System.out.println(e.toString());
+			// e.printStackTrace();
+		}
+	}
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,32 @@
+
+public class UtilisationDeArrays {
+	
+
+	private int[] tabIntValeurs= {1,2,3,4,5,6};
+	private double[] tabDoubleValeurs = {2.5,1.6,5.2,4.5,3.8};
+	private int[] rempliDint;
+	private int[] copieTabIntValeurs;
+	private int[] autreCopieTabIntValeurs;
+	
+	public UtilisationDeArrays(int[] tabIntValeurs, double[] tabDoubleValeurs, int[] rempliDint,
+			int[] copieTabIntValeurs, int[] autreCopieTabIntValeurs) {
+		
+		
+		
+		this.tabIntValeurs = tabIntValeurs;
+		this.tabDoubleValeurs = tabDoubleValeurs;
+		this.rempliDint = rempliDint;
+		this.copieTabIntValeurs = copieTabIntValeurs;
+		this.autreCopieTabIntValeurs = autreCopieTabIntValeurs;
+		
+		
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

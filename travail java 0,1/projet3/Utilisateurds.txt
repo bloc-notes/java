@@ -1,0 +1,3 @@
+Drouin,Mathieu,utilisateur,coco
+Bobo,Réjean-Alexandre,utilisateur
+Doyon,Philippe,administrateur,test

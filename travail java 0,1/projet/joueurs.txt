@@ -1,0 +1,75 @@
+37,Bergeron,Patrice,C,28,194,Boston
+38,Caron,Jordan,AD,23,204,Boston
+43,Bartkowski,Matt,D,25,196,Boston
+55,Boychuk,Johnny,D,29,225,Boston
+30,Johnson,Chad,G,27,205,Boston
+19,Crombeen,B.J.,AD,28,209,Tampa Bay 
+51,Filppula,Valtteri,C,29,195,Tampa Bay 
+3,Keith,Aulie,D,24,228,Tampa Bay  
+8,Barberio,Mark,D,23,185,Tampa Bay 
+30,Bishop,Ben,G,27,214,Tampa Bay
+17,Bourque,Rene,AD,32,217,Montréal
+48,Briere,Daniel,C,36,174,Montréal  
+55,Bouillon,Francis,D,38,194,Montréal  
+44,Drewiske,Davis,D,29,219,Montréal  
+30,Budaj,Peter,G,31,192,Montréal  
+40,Bodie,Troy,AD,28,226,Toronto
+63,Bolland,Dave,C,27,184,Toronto 
+4,Franson,Cody,D,26,213,Toronto 
+51,Gardiner,Jake,D,23,184,Toronto
+45,Bernier,Jonathan,G,25,185,Toronto 
+23,Conner,Chris,AD,30,190,Pittsburgh 
+87,Crosby,Sidney,C,26,200,Pittsburgh  
+41,Bortuzzo,Robert,D,24,215,Pittsburgh  
+5,Engelland,Deryk,D,31,215,Pittsburgh 
+9,Fleury,Marc-Andre,G,29,180,Pittsburgh  
+42,Anisimov,Artem,C,25,198,Columbus 
+13,Atkinson,Cam,AD,24,174,Columbus  
+7,Johnson,Jack,D,26,238,Columbus 
+27,Murray,Ryan,D,20,208,Columbus 
+72,Bobrovsky,Sergei,G,25,182,Columbus  
+12,Brunner,Damien,AD,27,185,New Jersey
+20,Carter,Ryan,C,30,205,New Jersey 
+7,Fayne,Mark,D,26,210,New Jersey 
+6,Greene,Andy,D,31,190,New Jersey
+30,Brodeur,Martin,G,41,220,New Jersey 
+52,Bollig,Brandon,AG,26,223,Chicago 
+26,Handzus,Michal,C,36,215,Chicago   
+17,Brookbank,Sheldon,D,33,202,Chicago  
+4,Hjalmarsson,Niklas,D,26,207,Chicago 
+50,Crawford,Corey,G,29,200,Chicago 
+14,Benn,Jamie,C,24,210,Dallas 
+12,Chiasson,Alex,AD,23,205,Dallas  
+24,Benn,Jordie,D,26,200,Dallas  
+23,Connauton,Kevin,D,23,200,Dallas    
+30,Ellis,Dan,G,33,195,Dallas 
+15,Halischuk,Matt,AD,25,187,Winnipeg 
+12,Jokinen,Olli,C,35,210,Winnipeg  
+44,Bogosian,Zach,D,23,215,Winnipeg  
+33,Byfuglien,Dustin,D,28,265,Winnipeg  
+35,Montoya,Al,G,28,203,Winnipeg  
+39,Beleskey,Matt,AG,25,200,Anaheim 
+13,Bonino,Nick,C,25,196,Anaheim  
+55,Allen,Bryan,D,33,224,Anaheim  
+23,Beauchemin,Francois,D,33,207,Anaheim  
+31,Andersen,Frederik,G,24,230,Anaheim   
+23,Brown,Dustin,AD,29,207,Los Angeles 
+77,Carter,Jeff,C,29,212,Los Angeles  
+8,Doughty,Drew,D,24,213,Los Angeles 
+2,Greene,Matt,D,30,234,Los Angeles  
+31,Jones,Martin,G,23,187,Los Angeles 
+14,Burrows,Alex,AG,32,188,Vancouver  
+21,Dalpe,Zac,C,24,195,Vancouver    
+41,Alberts,Andrew,D,32,218,Vancouver   
+3,Bieksa,Kevin,D,32,198,Vancouver   
+31,Lack,Eddie,G,26,187,Vancouver   
+11,Backlund,Mikael,C,24,198,Calgary 
+17,Bouma,Lance,AG,23,210,Calgary  
+7,Brodie,TJ,D,23,182,,Calgary  
+44,Butler,Chris,D,27,196,Calgary  
+29,Berra,Reto,G,27,194,Calgary  
+89,Boedker,Mikkel,AG,24,211,Phoenix
+24,Chipchura,Kyle,C,27,203,Phoenix  
+23,Ekman-Larsson,Oliver,D,22,190,Phoenix 
+4,Michalek,Zbynek,D,31,210,Phoenix 
+1,Greiss,Thomas,G,27,220,Phoenix 

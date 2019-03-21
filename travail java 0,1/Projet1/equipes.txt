@@ -1,0 +1,15 @@
+Boston,Atlantique,78,20
+Tampa Bay,Atlantique,71,20
+Montréal,Atlantique,70,20
+Toronto,Atlantique,70,20
+Pittsburgh,Métropolitaine,83,20
+Columbus,Métropolitaine,63,20 
+New Jersey,Métropolitaine,61,20
+Chicago,Centrale,84,23
+Dallas,Centrale,64,24
+Winnipeg,Centrale,62,26
+Anaheim,Pacifique,87,23
+Los Angeles,Pacifique,68,20
+Vancouver,Pacifique,63,20
+Calgary,Pacifique,51,20
+Phoenix,Pacifique,64,25

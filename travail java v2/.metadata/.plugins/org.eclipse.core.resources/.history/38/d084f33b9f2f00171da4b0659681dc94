@@ -1,0 +1,62 @@
+import java.util.Arrays;
+
+public class UtilisationDeArrays {
+	
+
+	private int[] tabIntValeurs= {1,2,3,4,5,6};
+	private double[] tabDoubleValeurs = {2.5,1.6,5.2,4.5,3.8};
+	private int[] rempliDint;
+	private int[] copieTabIntValeurs;
+	private int[] autreCopieTabIntValeurs;
+	
+	public UtilisationDeArrays() {
+		
+		rempliDint = new int[10];
+		copieTabIntValeurs= new int[tabIntValeurs.length];
+		Arrays.fill(rempliDint, 8);
+		Arrays.sort(tabDoubleValeurs);
+		System.arraycopy(tabIntValeurs, 0, copieTabIntValeurs, 0, tabIntValeurs.length);
+		autreCopieTabIntValeurs = Arrays.copyOf(tabIntValeurs, tabIntValeurs.length);
+		
+		//La différence entre System.arraycopy et Arrays.copyOf outre le fait qu'ils proviennent 
+		//de classe différente, System.arraycopy permet une meilleur maniabilité des données.
+	}
+	
+	public void afficherTableau(){
+		String strDV = "tabDoubleValeurs:";
+		
+		for(int intX=0;intX<tabDoubleValeurs.length;intX++){
+			strDV += " " + tabDoubleValeurs[intX];
+		}
+		
+		String strIV = "tabIntValeurs:";
+		
+		for(int intX=0;intX<tabIntValeurs.length;intX++){
+			strIV += " " + tabIntValeurs[intX];
+		}
+		
+		String strRD = "rempliDint:";
+		
+		for(int intX=0;intX<rempliDint.length;intX++){
+			strRD += " " + rempliDint[intX];
+		}
+		
+		String strCTIV = "copieTabintValeurs avec System.arrayCopy():";
+		
+		for(int intX=0;intX<copieTabIntValeurs.length;intX++){
+			strCTIV += " " + copieTabIntValeurs[intX];
+		}
+		
+		String strACTIV = "autreCopieTabIntValeurs avec Arrays.copyOf():";
+		
+		for(int intX=0;intX<autreCopieTabIntValeurs.length;intX++){
+			strACTIV += " " + autreCopieTabIntValeurs[intX];
+		}
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,34 @@
+201-274-GG, Mathématiques pour l'informatique I,0,10
+201-105-RE,Algèbre linéaire et vectorielle,0,10
+420-2P6-GG,Programmation Objet I,0,18
+420-2W4-GG,Programmation web client,0,18
+420-2X4-GG,Systèmes d'exploitation II,0,15
+201-373-GG,Mathématiques pour l'informatique II,0,10
+201-103-RE,Calcul I,0,10
+420-3B6-GG,Bases de données I,0,4
+420-3P4-GG,Programmation Objet II,0,3
+420-3X4-GG,Gestion de réseaux I,0,5
+201-473-GG, Mathématiques pour l'informatique III,0,10
+201-203-RE, Calcul II,0,6
+420-4B4-GG, Bases de données II,0,12
+420-4P6-GG, Programmation 3D,0,6
+420-4W4-GG, Programmation web-serveur I,0,12
+420-4X5-GG, Gestion de réseaux II,0,15
+420-5A6-GG, Analyse et modélisation,0,12
+420-5B6-GG, Bases de données III,0,12
+420-5P9-GG, Programmation mobile,0,12
+420-5B6-GG, Programmation web-serveur II,0,12
+420-6P8-GG, Projet commerce électronique,0,20
+201-NYA-05, Calcul différentiel,0,12
+201-NYB-05, Calcul intégral,0,8
+201-NYC-05, Algèbre et géométrie vectorielle,0,12
+201-143-GG, Modèles mathématiques I,0,12
+243-116-GG, Circuits électroniques I,0,15
+243-126-GG, Systèmes numériques,0,15
+201-244-GG, Modèles mathématiques II,0,12
+243-213-GG, Dessin technique,0,8
+243-226-GG, Circuits électroniques II,0,15
+243-317-GG, Diagnostic électronique analogique et numérique,0,15
+243-536-GG, Systèmes automatiques en réseau,0,15
+
+
